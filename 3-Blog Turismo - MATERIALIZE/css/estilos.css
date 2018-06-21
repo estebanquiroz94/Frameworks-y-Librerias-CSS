@@ -1,0 +1,75 @@
+html{
+background-color:  #A1A1A1
+}
+
+.header{
+  background-color: #3CBEE4;
+}
+
+li{
+margin-left: 10px;
+}
+
+a{
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+
+.body{
+  margin-top: 50px;
+}
+
+.border{
+border: 1px solid red;
+}
+
+.botones_menu{
+  background-color: #4F87FF;
+}
+.logo{
+  width: 100%;
+  border-radius: 15px;
+}
+
+.btn-large, .btn-small{
+  background-color: #ffffff9e !important;
+}
+
+img{
+  width: 90%;
+}
+
+.perfil{
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.img_perfil{
+  padding: 5px;
+  border-radius: 250px;
+  width: 50%;
+}
+
+p{
+  padding: 20px;
+}
+
+.autor{
+  margin: 5px;
+  background-color: white;
+}
+.acuario{
+  margin: 5px;
+  background-color: white;
+}
+
+.img_acuario{
+  padding: 15px;
+  width: 30%;
+  float: left;
+}
+
+.formulario{
+  margin: 5px;
+  background-color: #1565c0;
+}
